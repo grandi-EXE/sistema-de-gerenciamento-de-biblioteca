@@ -77,7 +77,17 @@ O sistema não usa banco de dados real. Ele salva os dados em arquivos `.txt`.
 <details>
 <summary>📖 Exemplo de Livros.txt</summary>
 ID;ISBN;Titulo;Autor;Editora;Ano;Localizacao;Disponivel
-1;9781234567890;A Arte da Programação;Donald Knuth;Addison Wesley;1968;1;Sim
+1;305447265;Dom Casmurro;Machado de Assis;Editora Ática;1899;1;sim
+<details>
+<summary>📌 Lista de Livros Cadastrados</summary>
+
+1;305447265;Dom Casmurro;Machado de Assis;Editora Ática;1899;1;sim
+2;342559946;O Pequeno Príncipe;Antoine de Saint-Exupéry;Agir;1943;2;sim
+3;364615694;1984;George Orwell;Companhia das Letras;1949;3;Nao - Emprestado para: Joao Silva
+4;347803112;A Revolução dos Bichos;George Orwell;Companhia das Letras;1945;4;sim
+5;312634559;Capitães da Areia;Jorge Amado;Companhia das Letras;1937;5;sim---
+ Ambos são arquivos simples com dados separados por ponto e vírgula (`;`).
+</details>
 
 ✅ Campo **Disponivel**:
 ✅ `Sim` → disponível para empréstimo.
@@ -150,13 +160,3 @@ Explicação Técnica das Funções
 - Marca o campo `Disponivel` como `Sim`.
 - Atualiza `Livros.txt`.
 </details>
-
-<details>
-<summary>👤 Exemplo de livros.txt</summary>
-
-1;305447265;Dom Casmurro;Machado de Assis;Editora Ática;1899;1;sim
-2;342559946;O Pequeno Príncipe;Antoine de Saint-Exupéry;Agir;1943;2;sim
-3;364615694;1984;George Orwell;Companhia das Letras;1949;3;Nao - Emprestado para: Joao Silva
-4;347803112;A Revolução dos Bichos;George Orwell;Companhia das Letras;1945;4;sim
-5;312634559;Capitães da Areia;Jorge Amado;Companhia das Letras;1937;5;sim---
- Ambos são arquivos simples com dados separados por ponto e vírgula (`;`).
