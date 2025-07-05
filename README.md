@@ -89,7 +89,7 @@ ID;ISBN;Titulo;Autor;Editora;Ano;Localizacao;Disponivel
 
 4;347803112;A Revolução dos Bichos;George Orwell;Companhia das Letras;1945;4;sim
 
-5;312634559;Capitães da Areia;Jorge Amado;Companhia das Letras;1937;5;sim---
+5;312634559;Capitães da Areia;Jorge Amado;Companhia das Letras;1937;5;sim
 
  Ambos são arquivos simples com dados separados por ponto e vírgula (`;`).
 </details>
