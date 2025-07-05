@@ -1,7 +1,6 @@
 📖 Sistema de Gerenciamento de Biblioteca 📖
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 Este é um aplicativo de console em C para gerenciar livros de uma biblioteca. Ele permite cadastrar, consultar, emprestar e devolver livros usando arquivos `.txt` como banco de dados.
 
